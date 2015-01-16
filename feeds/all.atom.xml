@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Dev Log of @sjolicoeur</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2010-12-03T10:20:00+01:00</updated><entry><title>My First Review</title><link href="/my-first-review.html" rel="alternate"></link><updated>2010-12-03T10:20:00+01:00</updated><author><name>sjolicoeur</name></author><id>tag:,2010-12-03:my-first-review.html</id><summary type="html">&lt;p&gt;Following is a review of my favorite mechanical keyboard. &lt;/p&gt;
+&lt;p&gt;Here's my written text [ref]and here is a footnote[/ref].&lt;/p&gt;
+&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years ...&lt;/p&gt;</summary><category term="12"></category><category term="123"></category></entry></feed>
